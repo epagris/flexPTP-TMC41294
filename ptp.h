@@ -142,7 +142,7 @@ struct SyncCycleData {
 //
 // -------------------------------------------
 
-#include "hw_port/ptp_port_tiva_tm4c1295.h"
+#include "hw_port/ptp_port_tiva_tm4c1294.h"
 
 #define PTP_MAIN_OSCILLATOR_FREQ_HZ (25000000)
 #define PTP_INCREMENT_NSEC (50)

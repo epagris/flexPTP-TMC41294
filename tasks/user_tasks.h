@@ -1,9 +1,4 @@
-/*
- * user_tasks.h
- *
- *  Created on: 2020. jún. 25.
- *      Author: epagris
- */
+/* (C) András Wiesner, 2020 */
 
 #ifndef TASKS_USER_TASKS_H_
 #define TASKS_USER_TASKS_H_

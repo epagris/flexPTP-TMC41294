@@ -1,3 +1,5 @@
+/* (C) András Wiesner, 2020 */
+
 #include "FreeRTOS.h"
 #include "task.h"
 

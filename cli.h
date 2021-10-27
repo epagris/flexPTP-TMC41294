@@ -1,9 +1,4 @@
-/*
- * cli.h
- *
- *  Created on: 2021. szept. 16.
- *      Author: epagris
- */
+/* (C) András Wiesner, 2021 */
 
 #ifndef TASKS_CLI_H_
 #define TASKS_CLI_H_
