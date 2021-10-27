@@ -16,7 +16,7 @@ To run the project you will need:
 
 ### Binary image
 
-If you don't want to compile the project for yourself, a precompiled binary can be downloaded from here. This binary image can be flashed easily using CCS. 
+If you don't want to compile the project for yourself, a precompiled binary can be downloaded from Releases. 
 
 ### Serial console
 
